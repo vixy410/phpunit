@@ -10,4 +10,4 @@ class SomeTest extends PHPUnit_Framework_TestCase{
 ?>
 
 
-Assertion : Function that allow you bto check that your code matches some requirements
+Assertion : Function that allow you bto check that your code matches some expected requirements
