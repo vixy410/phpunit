@@ -2,7 +2,12 @@
 
 <?php
 class SomeTest extends PHPUnit_Framework_TestCase{
-
+  public function testMethodName(){
+  
+  }
 }
 
 ?>
+
+
+Assertion : Function that allow you bto check that your code matches some requirements
